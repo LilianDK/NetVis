@@ -1,0 +1,7 @@
+Variable,Description,parametrization
+paramFreq,parameter to depict minimum frequency of a word required,15
+paramLen,parameter for cleaning words out which are too short,1
+paramk,parameter for topics to be created,6
+paramkmin,parameter for optimizing paramk mininum k range,2
+paramkmax,parameter for optimizing paramk maximum k range,50
+paramn,parameter for top n words for each topic k,10
