@@ -21,5 +21,6 @@ library(ggplot2)
 library(wordcloud2)
 library(htmlwidgets)
 library(visNetwork) 
+library(tidyverse)
 print("LOGGING End loading libraries.")
 
